@@ -1,0 +1,19 @@
+{
+  "link" : "http://localhost:8026/",
+  "port" : 8029,
+  "live_db_name": "company1",
+  "servers": {},
+  "db_config": {
+    "db_config" : {
+      "connectionLimit" : 10,
+      "host": "localhost",
+      "user" : "root",
+      "password": "1asdfghjkl",
+      "database": "company1"
+    }
+  },
+  "redisSettings" : {
+    "port" : 6379,
+    "host" : "localhost"
+  }
+}
